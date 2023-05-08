@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Damitha Jayatharaka 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate with front-end developers
+- 💞️ I’m looking to collaborate with full-stack developers
 - 📫 Contact me on : hellodamitha@gmail.com
 
 <!--- f

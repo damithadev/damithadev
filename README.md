@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Damitha Jayatharaka 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently working on making my future.
 - 💞️ I’m looking to collaborate with full-stack developers
 - 📫 Contact me on contact@damitha.dev
 

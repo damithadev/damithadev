@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 # 💻 Tech Stack:
-<p align="center">
+<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -42,6 +42,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 # 📊 GitHub Stats:
+<p align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=damithadev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=damithadev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=damithadev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</p>

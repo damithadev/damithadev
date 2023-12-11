@@ -42,10 +42,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 # 📊 GitHub Stats:
-<p align="center">
+<div class = "centerDiv" style="text-align:center;">
   
 ![](https://github-readme-stats.vercel.app/api?username=damithadev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=damithadev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=damithadev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</p>
+</div>

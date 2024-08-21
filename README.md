@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working on making my future.
 - 💞️ I’m looking to collaborate with full-stack developers
-- 📫 Contact me on contact@damitha.dev
+- 📫 Contact me on hellodamitha@gmail.com
 
 <!--- f
 djayatharaka/djayatharaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Damitha Jayatharaka 
 - 👀 I’m interested in Web Development
-<!---  - 🌱 I’m currently working on making my future. --->
 - 💞️ I’m looking to collaborate with full-stack developers
 - 📫 Contact me on hellodamitha@gmail.com
-
+<!---  - 🌱 I’m currently working on making my future. --->
 <!--- f
 djayatharaka/djayatharaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
